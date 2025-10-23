@@ -1,6 +1,8 @@
 # Maryland Statewide Routable Centerline
-Repository for models and scripts associated with Maryland Routable Centerlines
+The scripts and models were developed to aid in the creation of routable road centerlines that will contribute to an overall statewide routable centerline network. The zip files contain .abtx files that can be loaded into ArcGIS Pro. Please see the link below for connecting to a toolbox. 
 
-ZIP files in the main repository branch contain *.atbx files with sample models 
+https://pro.arcgis.com/en/pro-app/latest/help/projects/connect-to-a-toolbox.htm
 
-Questions? Email 
+All original file paths were removed and should be replaced with your jurisdiction’s GIS data pathways. 
+
+These toolboxes were developed by Anne Arundel County, Maryland.
